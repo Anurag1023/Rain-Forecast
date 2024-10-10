@@ -8,7 +8,7 @@ const port = 3000;
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
 
-const APP_ID = "0b97b932eb82532bbf0a3972b932cc69";
+const APP_ID = "";
 var rainProbab=false;
 
 
